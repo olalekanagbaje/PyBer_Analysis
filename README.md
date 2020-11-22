@@ -27,8 +27,11 @@ Following the analysis of PyBer's ride-sharing data, the following are some of t
 
 - _Average Fare Per Driver:_ In a similar pattern to the average fare per ride, rural city type generated the highest average fare per driver, with a fare of $55.49 followed by suburban with an average of $39.50 whilst urban city type generated the least with an average of $16.57. These figures show a 134.9% difference between average fares in rural and urban city types. 
 
-We can conclude from the analysis of PyBer ride-sharing data above highlighted that rides in the rural city type generated the best return to PyBer. This is because rural city type generated the highest average fare revenue, with an average of $34.62 per ride & $55.49 per driver when compared to the average returns from the the other city types. The images below shows the summary data frame and the multi-line graph for each of the city types.
+We can conclude from the analysis of PyBer ride-sharing data above highlighted that rides in the rural city type generated the best return to PyBer. This is because rural city type generated the highest average fare revenue, with an average of $34.62 per ride & $55.49 per driver when compared to the average returns from the the other city types. The images below shows the summary data frame and the multi-line graph for each of the city types. The first image shows the ride sharing summary dataframe by city types while the second image shows the multi-line graph of the weekly total fare by city types. 
 
+<img src="Image/citytypesummarydataframe.png">
+
+<img src="Image/totalfarebycitytype.png">
 
 ### Summary
   
